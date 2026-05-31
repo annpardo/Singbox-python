@@ -1,7 +1,5 @@
 ### Singbox-python
 
-本项目是 `eishare/Singbox-nodejs` 的 Python 版，精简为 Sing-box 多协议部署方案。
-
 ### 功能说明
 
 * 去除哪吒、argo 隧道，保留 3 种协议：TUIC、Hysteria2、VLESS + Reality
